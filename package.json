@@ -1,0 +1,20 @@
+{
+  "name": "lighthouse-process",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "audit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chrome-launcher": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "lighthouse": "^12.8.2",
+    "puppeteer": "^24.35.0",
+    "url": "^0.11.4"
+  }
+}
